@@ -1,0 +1,323 @@
+body{background-color: #f5f5f5;}
+
+.head1 {
+    height: 50%;
+    background-color: #f5f5f5;
+    background-image: url(../css/Images/exam.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.head {
+    color: #333;
+    text-align: center;
+    background-color: #f5f5f5;
+    padding-bottom: 1%;
+    margin-top: 5.5%;
+
+}
+
+.sahil{
+    width: 250px;
+    height:220px;
+    background-image: url(../css/Images/IBT/ibt1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 90%;
+    padding: 2px 2px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: white;
+    /*background-color: #000;*/
+    opacity: 1;
+  /*   -webkit-transition: all 0.7s ease;
+    transition: all 0.7s ease; */
+}
+
+.sahil:hover{
+
+  box-shadow: 0px 0px 30px #000000;
+    z-index: 2;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1);
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1);
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);
+}
+
+.sahil2{
+
+    width: 250px;
+    height:220px;
+    background-image: url(../css/Images/IBT/Ibt2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 90%;
+    padding: 2px 2px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: white;
+    margin-left: 3%;
+    /*background-color: #000;*/
+   /*  -webkit-transition: all 0.7s ease;
+    transition: all 0.7s ease;*/
+}
+
+.sahil2:hover{
+  box-shadow: 0px 0px 30px #000000;
+    z-index: 2;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1);
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1);
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);
+}
+
+.sahil3{
+
+    width: 250px;
+    height:220px;
+    background-image: url(../css/Images/IBT/ibt3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90%;
+    padding: 2px 2px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: white;
+    margin-left: 3%;
+    /*background-color: #000;*/
+  /*   -webkit-transition: all 0.7s ease;
+    transition: all 0.7s ease;*/
+
+}
+
+.sahil3:hover {
+  box-shadow: 0px 0px 30px #000000;
+    z-index: 2;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1);
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1);
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);
+}
+
+.sahil4{
+
+    width: 250px;
+    height:220px;
+    background-image: url(../css/Images/IBT/ibt4.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90%;
+    padding: 2px 2px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: white;
+    margin-left: 3%;
+    /*background-color: #000;*/
+   /*  -webkit-transition: all 0.7s ease;
+    transition: all 0.7s ease;*/
+
+
+}
+
+.sahil4:hover{
+  box-shadow: 0px 0px 30px #000000;
+    z-index: 2;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1);
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1);
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);
+}
+
+.sahil5{
+
+    width: 250px;
+    height:220px;
+    background-image: url(../css/Images/IBT/ibt5.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 90%;
+    padding: 2px 2px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: white;
+    margin-top: 4%;
+    /*background-color: #000;*/
+    opacity: 1;
+   /*  -webkit-transition: all 0.7s ease;
+    transition: all 0.7s ease;*/
+}
+
+.sahil5:hover{
+  box-shadow: 0px 0px 30px #000000;
+    z-index: 2;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1);
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1);
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);
+}
+
+.sahil6{
+
+    width: 250px;
+    height:220px;
+    background-image: url(../css/Images/IBT/ibt6.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 90%;
+    padding: 2px 2px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: white;
+    margin-top: 4%;
+    margin-left: 3%;
+    /*background-color: #000;*/
+   /*  -webkit-transition: all 0.7s ease;
+    transition: all 0.7s ease;*/
+}
+
+.sahil6:hover{
+  box-shadow: 0px 0px 30px #000000;
+    z-index: 2;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1);
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1);
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);
+}
+
+.sahil7{
+
+    width: 250px;
+    height:220px;
+    background-image: url(../css/Images/IBT/ibt7.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90%;
+    padding: 2px 2px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: white;
+    margin-top: 4%;
+    margin-left: 3%;
+    /*background-color: #000;*/
+  /*  -webkit-transition: all 0.7s ease;
+    transition: all 0.7s ease;*/
+
+}
+
+.sahil7:hover {
+  box-shadow: 0px 0px 30px #000000;
+    z-index: 2;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1);
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1);
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);
+}
+
+.sahil8{
+
+    width: 250px;
+    height:220px;
+    background-image: url(../css/Images/IBT/ibt8.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90%;
+    padding: 2px 2px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: white;
+    margin-top: 4%;
+    margin-left: 3%;
+    /*background-color: #000;*/
+  /*  -webkit-transition: all 0.7s ease;
+    transition: all 0.7s ease;*/
+
+
+}
+
+.navbar{
+  margin-bottom: 0px;
+}
+
+.sahil8:hover{
+  box-shadow: 0px 0px 30px #000000;
+    z-index: 2;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1);
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1);
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);
+}
+
+.content {
+    margin-top: 0%;
+    margin-bottom: 35%;
+    margin-left: 8%;
+
+}
+
+.content p{
+    margin-top: 96%;
+    text-align: center;
+    font-family: cursive, serif, sans-serif;
+    font-size: 150%;
+
+
+}
+
+.end {
+    text-align: justify;
+    margin-bottom: 2%;
+    margin-top: 12%;
+    margin-left: 10%;
+
+}
+
+.end p {
+    margin-left: 3%;
+}
+
+.end .fa {
+    color: #000;
+    background-color: ;
+    font-size: 30px;
+    margin-left: 8%;
+}
+
+.end .fa:hover {
+    color: #0A6567;
+}
+
+.end a {color: #337ab7;}

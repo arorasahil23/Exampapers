@@ -1,0 +1,105 @@
+.head {
+    color: #333;
+    text-align: center;
+    background-color: #f5f5f5;
+    padding-bottom: 1%;
+    margin-top: 4%;
+    background-image: url(../css/Images/success.jpg);
+    background-position: 0px -33px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 155px;
+    
+}
+
+#home p {
+    margin-top: 2%;
+    font-family: cursive, "times new roman", serif, sans-serif;
+    font-size: 250px;
+    
+}
+
+/*#home ul {
+    list-style-type: none;
+}*/
+
+#home a {
+    font-size: 18px;
+    color: 	#333;
+    font-family: cursive, sans-serif, "times new roman";
+    
+    
+}
+
+#home .dropdown-menu a {
+    color: #333;
+    font-family: "times new roman", serif, cursive;
+}
+
+#menu1 p {
+    margin-top: 2%;
+    font-family: cursive, "times new roman", serif, sans-serif;
+    font-size: 250px;
+}
+
+/*#menu1 ul {
+    list-style-type: none;
+}*/
+
+#menu1 a {
+    font-size: 18px;
+    color: #333;
+    font-family: cursive, sans-serif, "times new roman";
+}
+
+#menu1 .dropdown-menu a {
+    color: #333;
+    font-family: "times new roman", serif, cursive;
+}
+
+#menu2 p {
+    margin-top: 2%;
+    font-family: cursive, "times new roman", serif, sans-serif;
+    font-size: 250px;
+}
+
+/*#menu2 ul {
+    list-style-type: none;
+}*/
+
+#menu2 a {
+    font-size: 18px;
+    color: #333;
+    font-family: cursive, sans-serif, "times new roman";
+
+}
+
+#menu2 .dropdown-menu a {
+    color: #333;
+    font-family: "times new roman", serif, cursive;
+}
+
+.end {
+    text-align: justify;
+    margin-bottom: 2%;
+    margin-top: 5%;
+    margin-left: 10%;
+    
+}
+
+.end p {
+    margin-left: 3%;
+}
+
+.end .fa {
+    color: #000;
+    background-color: ;
+    font-size: 30px;
+    margin-left: 8%;
+}
+
+.end .fa:hover {
+    color: #0A6567;
+}
+
+.end a {color: #337ab7;}
